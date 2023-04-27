@@ -15,6 +15,7 @@ Color Palette:
 
 body {
 max-width: 100%;
+background-color: #5C3317;
 }
 
 header {
@@ -37,6 +38,7 @@ h2 {
     font-size: 2em;
 }
 
+
 blockquote {
 
 }
@@ -58,6 +60,7 @@ background-color: #5C3317;
     min-height: 800px;
     background-color: #5C3317;
     color: #E76A1A;
+    font-size: 1em;
 }
 
 .fnav {
