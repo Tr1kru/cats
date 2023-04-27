@@ -20,11 +20,9 @@ background-color: #5C3317;
 
 header {
     background-color: #804720;
+    text-align: center;
 }
 
-header img {
-    margin: 5% auto;
-}
 
 h1 {
 text-align: center;
