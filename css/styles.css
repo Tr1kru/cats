@@ -81,7 +81,8 @@ margin-top: 3%;
 }
 
 .fnav a {
-
+color: #E76A1A;
+text-decoration: none;
 }
 
 .fnav a:hover {
