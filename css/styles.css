@@ -23,9 +23,7 @@ header {
 }
 
 header img {
-    position: relative;
-    margin: 3%;
-    padding: 5%;
+    margin: 0 auto;
 }
 
 h1 {
