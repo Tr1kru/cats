@@ -49,8 +49,14 @@ main {
 
 }
 
-main p {
-    font-size: 1.2em;
+#container {
+    width: 80%;
+    display: block;
+    text-align: center;
+    padding: 5% 0;
+    margin: 0 auto;
+    min-height: 800px;
+    background-color: #5C3317;
 }
 
 .fnav {
