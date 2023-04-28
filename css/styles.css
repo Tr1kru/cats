@@ -72,6 +72,41 @@ background-color: #5C3317;
     font-size: 1em;
 }
 
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-radius: 2%;
+}
+
+tbody {
+display: table-row-group;
+border-color: inherit;
+}
+
+label {
+
+}
+
+tr {
+display: table-row;
+border-color: inherit;
+}
+
+input {
+    height: 5em;
+	width: 10em;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.btn {
+    width: 5em;
+}
+
 .fnav {
 min-height: 80px;
 }
