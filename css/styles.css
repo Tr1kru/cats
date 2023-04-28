@@ -62,7 +62,8 @@ background-color: #5C3317;
 
 .caat {
     float: right;
-    height: 400px;
+    height: 600px;
+    width: 600px;
 }
 
 #container {
@@ -101,7 +102,7 @@ color: #E76A1A;
 }
 
 input {
-    height: 15em;
+    height: 10em;
 	width: 15em;
 	border-radius: 10px;
 	padding-left: 25px;
