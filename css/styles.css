@@ -101,11 +101,11 @@ color: #E76A1A;
 }
 
 input {
-    height: 5em;
-	width: 10em;
+    height: 10em;
+	width: 20em;
 	border-radius: 10px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
 	font-size: 1em;
 	font-weight: bold;
     background-color: #E76A1A;
