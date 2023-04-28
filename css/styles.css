@@ -77,6 +77,7 @@ table {
     border-collapse: separate;
     box-sizing: border-box;
     border-radius: 2%;
+    color: #E76A1A;
 }
 
 tbody {
@@ -84,9 +85,6 @@ display: table-row-group;
 border-color: inherit;
 }
 
-label {
-
-}
 
 tr {
 display: table-row;
@@ -101,10 +99,15 @@ input {
 	padding-right: 15px;
 	font-size: 1em;
 	font-weight: bold;
+    background-color: #5C3317;
 }
 
 .btn {
     width: 5em;
+}
+
+.btn:active {
+    background-color: #5C3317;
 }
 
 .fnav {
