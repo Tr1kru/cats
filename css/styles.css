@@ -53,6 +53,10 @@ background-color: #5C3317;
     float: left;
 }
 
+.cat2 {
+    float: right;
+}
+
 #container {
     width: 80%;
     display: block;
