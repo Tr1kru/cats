@@ -51,6 +51,7 @@ background-color: #5C3317;
 
 .cat1 {
     float: left;
+    max-height: 600px;
 }
 
 .cat2 {
