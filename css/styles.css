@@ -60,6 +60,11 @@ background-color: #5C3317;
    max-height: 600px;
 }
 
+.caat {
+    float: right;
+    height: 400px;
+}
+
 #container {
     width: 80%;
     display: block;
@@ -77,18 +82,21 @@ table {
     border-collapse: separate;
     box-sizing: border-box;
     border-radius: 2%;
+    text-indent: initial;
     color: #E76A1A;
 }
 
 tbody {
 display: table-row-group;
 border-color: inherit;
+vertical-align: middle;
 }
 
 
 tr {
 display: table-row;
 border-color: inherit;
+vertical-align: middle;
 color: #E76A1A;
 }
 
