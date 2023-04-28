@@ -89,6 +89,7 @@ border-color: inherit;
 tr {
 display: table-row;
 border-color: inherit;
+color: #E76A1A;
 }
 
 input {
@@ -99,7 +100,7 @@ input {
 	padding-right: 15px;
 	font-size: 1em;
 	font-weight: bold;
-    background-color: #5C3317;
+    background-color: #E76A1A;
 }
 
 .btn {
@@ -107,7 +108,7 @@ input {
 }
 
 .btn:active {
-    background-color: #5C3317;
+    background-color: #E76A1A;
 }
 
 .fnav {
