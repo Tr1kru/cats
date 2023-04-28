@@ -55,7 +55,8 @@ background-color: #5C3317;
 
 .cat2 {
     float: left;
-   
+   max-width: 400px;
+   max-height: 600px;
 }
 
 #container {
