@@ -49,6 +49,10 @@ main {
 background-color: #5C3317;
 }
 
+.cat1 {
+    float: left;
+}
+
 #container {
     width: 80%;
     display: block;
@@ -57,7 +61,7 @@ background-color: #5C3317;
     margin: 0 auto;
     min-height: 800px;
     background-color: #5C3317;
-    color: #F7A26C;
+    color: #E76A1A;
     font-size: 1em;
 }
 
